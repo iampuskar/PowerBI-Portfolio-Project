@@ -13,7 +13,10 @@
 - 💳 **Payment Methods**: Bar charts depict the preferred payment methods (Bank Transfer, Cash, Credit Card, Online Payment) used by students, including transaction counts over recent dates.
 
 ## Data Source
-📚 This dashboard is built using data from the school's administrative records covering the period from 2015 to 2023. Data confidentiality is maintained, and all personal identifiers have been removed to ensure privacy.
+📚 This dashboard is built using data from the school's administrative records covering the period from 2015 to 2025. Data confidentiality is maintained, and all personal identifiers have been removed to ensure privacy.
+
+![image](https://github.com/user-attachments/assets/a07f46f3-3388-4bd9-9946-0ccde60d3418)
+
 
 ## How to Use
 1. 🔍 **Navigate Between Tabs**: Click on different tabs to view specific data visualizations.
